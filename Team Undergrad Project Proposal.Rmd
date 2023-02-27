@@ -19,6 +19,11 @@ knitr::opts_chunk$set(echo = TRUE)
 
 
 # About the Data
+  The first data source for this report, titled “Data Science and STEM Salaries,”\footnote{https://www.kaggle.com/datasets/jackogozaly/data-science-and-stem-salaries} is a compilation of data from levels.fyi, a website used for reporting and researching salaries, that is located on kaggle.com. The data set, with 29 columns and over 62,000 entries, contains salary data – including experience, company, location, and demographic information including gender, race, and education – for 15 STEM roles between 2017 and 2021. This large and diverse data set aids the discovery of any common factors of the highest paid positions in STEM careers. Additionally, the demographic information in this set helps find the presence of any wage discrimination based on gender or race, and the location information helps determine the best cities for STEM jobs.
+  
+  The second source, titled "Data Science Jobs Salaries Dataset,"\footnote{https://www.kaggle.com/datasets/saurabhshahane/data-science-jobs-salaries} is another data set found on kaggle.com. This data source contains salary information from ai-jobs.net, another salary reporting site similar to levels.fyi. While this data set lacks city location and demographic information, it still contains experience, country location, and company size for 43 data science related positions. Used in conjunction with the first source, this second source introduces data surrounding more niche positions that can be used to find common factors of the highest paid STEM jobs.
+  
+  The final source is teleport.org\footnote{https://teleport.org/cities/}, a site that calculates and reports quality of life metrics for cities across the globe. The site ranks cities in 17 categories including cost of living, commute, safety, and more. The data found on this site, which can be accessed using a public API, provides another perspective that benefits the evaluation of the best cities for STEM careers.
 
 
 # Biweekly Timeline
