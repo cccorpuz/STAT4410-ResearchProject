@@ -41,7 +41,7 @@ knitr::opts_chunk$set(echo = TRUE)
 | 4/10    | Entire Group    | Determine the project’s data product scope                                             |
 | 4/10    |                 |                                                                                        |
 | 4/10    | Crispin Corpuz  | Create data visualizations for final report                                            |
-| 4/24    | Entire Group    | Update work based on any critique received from midterm report                         |
-|         |                 | Bring findings together into a rough draft of the final report, including any conclusions |
-|         |                 | Begin to split topics up by group member and begin organizing for the final presentation |
+| 4/24    | Entire Group    | - Finish final revisions on project based on feedback from midterm report                         |
+|         |                 | - Combine final conclusions and findings together into a rough draft for the final report |
+|         |                 | - Identify topics for each group member to organize a portion to present about for  the final presentation |
 | 5/8     | Entire Group    | Complete final draft of report; Record and combine individual presentations into one 10-minute long presentation |
