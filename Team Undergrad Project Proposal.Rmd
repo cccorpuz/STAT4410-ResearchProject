@@ -22,3 +22,21 @@ knitr::opts_chunk$set(echo = TRUE)
 
 
 # Biweekly Timeline
+| Date    | Person           | Task                                                                                   |
+| ------- | ----------------| --------------------------------------------------------------------------------------|
+| 2/27    | Entire Group    | Complete Project Proposal                                                              |
+| 2/27    | Crispin Corpuz  | Submit proposal                                                                        |
+| 3/13    | Crispin Corpuz  | Clean and summarize “Data Science and STEM Salaries” dataset                            |
+| 3/13    | Ken Drucker     | Clean and summarize “Data Science Jobs” dataset                                        |
+| 3/13    | Connor Moorhous | Scrape, clean and summarize “Teleport.org” data                                        |
+| 3/27    | Entire Group    | - Finalize midterm report                                                              |
+|         |                 | - Explain how data was cleaned and reshaped                                            |
+|         |                 | - Explain basic data analysis and visualizations done                                 |
+|         |                 | - Describe obstacles met and how they were handled                                     |
+| 4/10    | Entire Group    | Determine the project’s data product scope                                             |
+| 4/10    |                 |                                                                                        |
+| 4/10    | Crispin Corpuz  | Create data visualizations for final report                                            |
+| 4/24    | Entire Group    | Update work based on any critique received from midterm report                         |
+|         |                 | Bring findings together into a rough draft of the final report, including any conclusions |
+|         |                 | Begin to split topics up by group member and begin organizing for the final presentation |
+| 5/8     | Entire Group    | Complete final draft of report; Record and combine individual presentations into one 10-minute long presentation |
