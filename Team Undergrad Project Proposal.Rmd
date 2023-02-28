@@ -21,27 +21,27 @@ knitr::opts_chunk$set(echo = TRUE)
 # About the Data
   The first data source for this report, titled “Data Science and STEM Salaries,”\footnote{https://www.kaggle.com/datasets/jackogozaly/data-science-and-stem-salaries} is a compilation of data from levels.fyi, a website used for reporting and researching salaries, that is located on kaggle.com. The data set, with 29 columns and over 62,000 entries, contains salary data – including experience, company, location, and demographic information including gender, race, and education – for 15 STEM roles between 2017 and 2021. This large and diverse data set aids the discovery of any common factors of the highest paid positions in STEM careers. Additionally, the demographic information in this set helps find the presence of any wage discrimination based on gender or race, and the location information helps determine the best cities for STEM jobs.
   
-  The second source, titled "Data Science Jobs Salaries Dataset,"\footnote{https://www.kaggle.com/datasets/saurabhshahane/data-science-jobs-salaries} is another data set found on kaggle.com. This data source contains salary information from ai-jobs.net, another salary reporting site similar to levels.fyi. While this data set lacks city location and demographic information, it still contains experience, country location, and company size for 43 data science related positions. Used in conjunction with the first source, this second source introduces data surrounding more niche positions that can be used to find common factors of the highest paid STEM jobs.
+  The second source is the U.S. Bureau of Labor Statistics’ “Occupational Employment and Wage Statistics.”\footnote{https://www.bls.gov/oes/current/oes\_nat.htm} This employment data from May 2021 contains occupational and wage information for over 1,000 various jobs. These data sets are broken down by geographic region into distinct categories such as: employment per thousand jobs, annual mean wage, and location quotient. This group of datasets will serve as a foundation for determining the relationship between geographic location, occupation, and salaries. 
   
   The final source is teleport.org\footnote{https://teleport.org/cities/}, a site that calculates and reports quality of life metrics for cities across the globe. The site ranks cities in 17 categories including cost of living, commute, safety, and more. The data found on this site, which can be accessed using a public API, provides another perspective that benefits the evaluation of the best cities for STEM careers.
 
 
 # Biweekly Timeline
 | Date    | Person           | Task                                                                                   |
-| ------- | ----------------| --------------------------------------------------------------------------------------|
-| 2/27    | Entire Group    | Complete Project Proposal                                                              |
-| 2/27    | Crispin Corpuz  | Submit proposal                                                                        |
-| 3/13    | Crispin Corpuz  | Clean and summarize “Data Science and STEM Salaries” dataset                            |
-| 3/13    | Ken Drucker     | Clean and summarize “Data Science Jobs” dataset                                        |
-| 3/13    | Connor Moorhous | Scrape, clean and summarize “Teleport.org” data                                        |
-| 3/27    | Entire Group    | - Finalize midterm report                                                              |
-|         |                 | - Explain how data was cleaned and reshaped                                            |
-|         |                 | - Explain basic data analysis and visualizations done                                 |
-|         |                 | - Describe obstacles met and how they were handled                                     |
-| 4/10    | Entire Group    | Determine the project’s data product scope                                             |
-| 4/10    |                 |                                                                                        |
-| 4/10    | Crispin Corpuz  | Create data visualizations for final report                                            |
-| 4/24    | Entire Group    | - Finish final revisions on project based on feedback from midterm report                         |
-|         |                 | - Combine final conclusions and findings together into a rough draft for the final report |
-|         |                 | - Identify topics for each group member to organize a portion to present about for  the final presentation |
-| 5/8     | Entire Group    | Complete final draft of report; Record and combine individual presentations into one 10-minute long presentation |
+| ------- | ----------------------| --------------------------------------------------------------------------------------|
+| 2/27    | Entire Group                                   | Complete Project Proposal                                                             |
+| 2/27    | Crispin Corpuz                                 | Submit proposal                                                                       |
+| 3/13    | Crispin Corpuz, Joshua Reynoso                 | Clean and summarize “Data Science and STEM Salaries” dataset                          |
+| 3/13    | Ken Drucker, Alexis Walther                    | Clean and summarize “Occupational Employment and Wage Statistics” dataset             |
+| 3/13    | Connor Moorhous, Teddy Novotny                 | Scrape, clean and summarize “Teleport.org” data                                       |
+| 3/27    | Entire Group                                   | - Finalize midterm report                                                             |
+|         |                                                | - Explain how data was cleaned and reshaped                                           |
+|         |                                                | - Explain basic data analysis and visualizations done                                 |
+|         |                                                | - Describe obstacles met and how they were handled                                    |
+| 4/10    | Entire Group                                   | Determine the project’s data product scope                                            |
+| 4/10    | Joshua Reynoso, Ken Drucker, Alexis Walther    | Create data visualizations for first research question                                |
+| 4/10    | Crispin Corpuz, Connor Moorhous, Teddy Novotny | Create data visualizations for second research question                               |
+| 4/24    | Entire Group    | - Finish final revisions on project based on feedback from midterm report                                            |
+|         |                 | - Combine final conclusions and findings together into a rough draft for the final report                            |
+|         |                 | - Identify topics for each group member to organize a portion to present about for  the final presentation           |
+| 5/8     | Entire Group    | Complete final draft of report; Record and combine individual presentations into one 10-minute long presentation     |
