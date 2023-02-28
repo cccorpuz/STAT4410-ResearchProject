@@ -1,7 +1,11 @@
 ---
-title: Exploration of the Common Factors Among the Highest Paying Information Technology
-  and STEM Jobs
-author: "Crispin Corpuz, Ken Drucker, Connor Moorhous, Josh Reynoso, Alexis Walther"
+title: Exploration of the Common Factors Among the Highest Paying STEM Jobs and the Best Cities for STEM Careers
+author: |
+ | Crispin Corpuz
+ | Connor Moorhous
+ | Ken Drucker
+ | Josh Reynoso
+ | Alexis Walther
 date: "February 27, 2023"
 output: pdf_document
 ---
@@ -13,7 +17,7 @@ knitr::opts_chunk$set(echo = TRUE)
 # Introduction
   As technology continues to spread into countless parts of everyday life, it is easy to marvel at the fact that there are numerous people, teams, and organizations behind its development. While it is true that the jobs and organizations in the tech industry have become lucrative, it is also true that not all jobs are created equal in terms of salary. This raises the question about what factors contribute to the higher salaries in tech and STEM, in addition to what factors contribute to wage discrimination and quality of life for professionals. For context, some jobs in these fields could possibly pay higher salaries than others according to a multitude of factors that could include education level, years of experience, supply and demand for individuals qualified for these jobs, and many more. 
     
-  The research in this project seeks to answer three questions. First, are there common factors between tech jobs that significantly raise their salary, and what are they? Finding categorical trends among the salaries of IT professionals that can provide deeper insight than the surface level stereotypes of moving upward through the corporate chain or small, startup company successes would be particularly valuable. Second—which is almost a subcategory of first question because of its likely proximity to the same data—is wage discrimination present in STEM and the tech industry? While there are social aspects that confound the information needed to draw a conclusion to answer this question and that are difficult to quantify in data sets, there is value for emerging professionals in being able to provide insight into this topic from an objective data analysis perspective. Third, what are the best cities for STEM jobs in terms of salary, cost of living, and other quality of life factors? This question is in the same spirit as the first question in that building trends and profiles is valuable for quick information digestion. However, it differs in the sense that answering this question identifies specific tech industry hotspots that can help young professionals discover feasible paths on which to start and build their career.
+  The research in this project seeks to answer two questions. First, are there common factors between tech jobs that significantly raise their salary, and what are they? Finding categorical trends among the salaries of IT professionals that can provide deeper insight than the surface level stereotypes of moving upward through the corporate chain or small, startup company successes would be particularly valuable. Second, what are the best cities for STEM jobs in terms of salary, cost of living, and other quality of life factors? This question is in the same spirit as the first question in that building trends and profiles is valuable for quick information digestion. However, it differs in the sense that answering this question identifies specific tech industry hotspots that can help young professionals discover feasible paths on which to start and build their career. 
     
   The answers and conclusions generated from this research and data analysis, as mentioned, will be a useful tool for a wide range of young individuals from high school students to college students and graduates to individuals looking to change careers into the tech industry. Interaction with this information can range from a detailed report to a simple web application in order to educate this demographic on the nuances behind jobs in the tech industry and STEM.
 
@@ -28,9 +32,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Biweekly Timeline
 | Date    | Person           | Task                                                                                   |
-| ------- | ----------------------| --------------------------------------------------------------------------------------|
+| ------- | -----------------------------------| --------------------------------------------------------------------------------------|
 | 2/27    | Entire Group                                   | Complete Project Proposal                                                             |
-| 2/27    | Crispin Corpuz                                 | Submit proposal                                                                       |
+| 2/27    | Joshua Reynoso                                 | Submit proposal                                                                       |
 | 3/13    | Crispin Corpuz, Joshua Reynoso                 | Clean and summarize “Data Science and STEM Salaries” dataset                          |
 | 3/13    | Ken Drucker, Alexis Walther                    | Clean and summarize “Occupational Employment and Wage Statistics” dataset             |
 | 3/13    | Connor Moorhous, Teddy Novotny                 | Scrape, clean and summarize “Teleport.org” data                                       |
@@ -42,6 +46,6 @@ knitr::opts_chunk$set(echo = TRUE)
 | 4/10    | Joshua Reynoso, Ken Drucker, Alexis Walther    | Create data visualizations for first research question                                |
 | 4/10    | Crispin Corpuz, Connor Moorhous, Teddy Novotny | Create data visualizations for second research question                               |
 | 4/24    | Entire Group    | - Finish final revisions on project based on feedback from midterm report                                            |
-|         |                 | - Combine final conclusions and findings together into a rough draft for the final report                            |
+|         |                 | - Combine final conclusions and findings together into a final report                       |
 |         |                 | - Identify topics for each group member to organize a portion to present about for  the final presentation           |
-| 5/8     | Entire Group    | Complete final draft of report; Record and combine individual presentations into one 10-minute long presentation     |
+| 5/8     | Entire Group    | Finialize project report and create presentation; Record and combine individual presentations into one 10-minute long presentation     |
